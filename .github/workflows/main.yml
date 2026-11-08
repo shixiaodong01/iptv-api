@@ -106,6 +106,9 @@ jobs:
           echo "title=${release_metadata[1]}" >> "$GITHUB_OUTPUT"
           echo "generated_at=${release_metadata[2]}" >> "$GITHUB_OUTPUT"
 
+      - name: Append static VOD movie list
+        run: pipenv run python scripts/append_vod.py
+
       - name: Prepare public release assets
         id: assets
         run: |
