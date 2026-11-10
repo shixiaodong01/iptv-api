@@ -7,3 +7,11 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/peterhchina/iptv/main/huyayqk.m3u
 https://raw.githubusercontent.com/peterhchina/iptv/main/douyuyqk.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u
+http://xhztv.top/xhz/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/2026-8.14.txt
